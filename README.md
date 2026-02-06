@@ -18,6 +18,18 @@ A Flutter-based mobile application designed to manage dairy business operations 
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c899259-a5b8-4104-9c68-103cc885904a" width="220"/>
+  <img src="https://github.com/user-attachments/assets/03e54cd9-7d36-4317-80a9-56ecc199373c" width="220"/>
+  <img src="https://github.com/user-attachments/assets/e75824dd-66b3-45c4-a2d3-915ca7b9ab4b" width="220"/>
+  <img src="https://github.com/user-attachments/assets/a56e5fd4-2e96-4022-b644-ef65360970cd" width="220"/>
+</p>
+
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Flutter (Dart)** – UI framework
