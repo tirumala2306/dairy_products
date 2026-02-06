@@ -18,10 +18,11 @@ build/
 /ios/Flutter/Flutter.podspec
 
 # VS Code
-.vscode/
 
 # Mac
 .DS_Store
 
 # Logs
 *.log
+config.bat
+node_modules
